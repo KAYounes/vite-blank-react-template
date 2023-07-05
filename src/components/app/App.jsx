@@ -7,7 +7,7 @@ if (import.meta.hot) {
 function App() {
   return (
     <div>
-
+      Hello, lets go.
     </div>
   )
 }
